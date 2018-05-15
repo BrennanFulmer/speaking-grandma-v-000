@@ -14,6 +14,7 @@
 
 def speak_to_grandma(said)
   if said == "I LOVE YOU GRANDMA!"
-    puts 
+    #puts
+  end
   
 end
